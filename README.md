@@ -4,10 +4,15 @@
 ---
 
 **Name:** Prithvi Pal
+
 **Registration No.**:25BCE11284
+
 **Branch:** B.Tech – Computer Science Engineering
+
 **Year:** First Year (2025–2026)
+
 **Course Code:** CSE0001 – Digital Literacy
+
 **Date:** 28 March 2026
 
 ---
